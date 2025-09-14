@@ -40,4 +40,17 @@ Patterns aren't invented; they are discovered and named. It starts with a common
 
 4. Code example in one of the popular programming languages (in this case Golang and TS) makes it easier to grasp the idea behind the pattern
 
+
+##  The 3 Types of Design Patterns
+
+Design patterns are sorted into three groups based on their main job, or purpose.
+Think of building a car:
+
+- Creational: How you get the parts (engine, wheels, seats).
+
+- Structural: How you bolt the parts together to form the car's body.
+
+- Behavioral: How the parts communicate (pressing the gas pedal makes the car go).
+
+  
 # The Signs ( Code SMELLS)
