@@ -1,6 +1,8 @@
 # DESIGN PATTERNS
 
+
 # Basics
+
 
 ## What are design patterns ?
 
@@ -20,7 +22,13 @@ Instead, they are proven templates(solution) that experienced developers have cr
 
 Patterns aren't invented; they are discovered and named. It starts with a common problem that programmers face again and again. Over time, a particularly clever and effective solution to this problem emerges and gets reused by different developers across many projects. Eventually, someone recognizes that this specific solution is being used repeatedly to solve the same type of problem. They then document it, give it a name (like "Singleton" or "Observer"), and describe its structure and benefits. This process creates a shared blueprint that everyone can use and understand. So, a pattern is simply a proven solution to a recurring problem, standardized into a reusable template.
 
-design patterns vs paradigm
+
+## Design Pattern VS Paradigms
+
+- A Paradigm is the big-picture philosophy or style of programming. It's the set of rules and principles you follow. It's like choosing to build with Legos (object-oriented) vs. clay (functional) – the fundamental material and method are different.
+
+-A Design Pattern is a reusable solution to a common problem within a paradigm. It's a specific, clever way to connect your Legos or shape your clay to solve a recurring design issue.
+
 
 ## What does the pattern consist of? (PATTERN FOR EACH DESIGN PATTERN)  
 
