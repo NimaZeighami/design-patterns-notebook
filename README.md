@@ -1,7 +1,7 @@
 # design-patterns-notebook
 
 ## What are design patterns?
-Think of design patterns as blueprints for solving common software design problems. They aren't finished code you can copy and paste, and they aren't strict rules you must follow.
+Think of design patterns as blueprint(a detailed plan or a template for how to build something) for solving common software design problems. They aren't finished code you can copy and paste, and they aren't strict rules you must follow.
 Instead, they are proven templates(solution) that experienced developers have created over time to provide reliable, flexible solutions to challenges that come up again and again when building software.
 
 - They are a shared vocabulary. Instead of explaining a complex design idea from scratch, you can just say, "Let's use a Singleton here," and other developers will instantly understand your plan.
